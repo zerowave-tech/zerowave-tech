@@ -11,7 +11,7 @@ SECTIONS = [
     (None, [
         ("Languages.Programming", "Python, C#, JavaScript"),
         ("Languages.Web", "HTML, CSS"),
-        ("Frameworks", "Django"),
+        ("Frameworks", "aiogram,Django"),
         ("Database", "PostgreSQL, Supabase"),
     ]),
     (None, [
