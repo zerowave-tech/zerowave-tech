@@ -11,7 +11,7 @@ SECTIONS = [
     (None, [
         ("Languages.Programming", "Python, C#, JavaScript"),
         ("Languages.Web", "HTML, CSS"),
-        ("Frameworks", "aiogram,.NETCore,FastAPI"),
+        ("Frameworks", "aiogram, .NETCore, FastAPI"),
         ("Database", "PostgreSQL, Supabase"),
     ]),
     (None, [
